@@ -13,4 +13,8 @@ The SVM model was trained and tested on a subset of the dataset. The classifier 
 1. The fundamentals of Support Vector Machines (SVM) and their application in image classification.
 2. Data preprocessing techniques, including image resizing and scaling.
 3. Handling imbalanced classes in image datasets.
-4. Evaluating model performance using accuracy, precision, recall, and F1-score.
+4. Evaluating model performance using accuracy & precision.
+
+## Difficulties Faced
+1. The computation time due to the dataset being huge (25,000 images).
+2. New to the SVM classification, learning it from scratch turned out to be a challenge.
